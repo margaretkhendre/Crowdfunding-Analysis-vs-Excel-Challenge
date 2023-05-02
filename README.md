@@ -133,3 +133,4 @@ For gaining an in-depth understanding of campaign backers, evaluate the number o
 - Use your data to determine whether the mean or the median better summarizes the data.
 
 - Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
+*Refer to report*
