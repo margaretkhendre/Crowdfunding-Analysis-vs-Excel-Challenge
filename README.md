@@ -21,10 +21,14 @@ Using the Excel workbook in your .zip file, modify and analyze the sample-projec
     - Create a new column called Average Donation that uses a formula to find how much each project backer paid on average.
 
     - Create two new columns, one called Parent Category and another called Sub-Category, that use formulas to split the Category and Sub-Category column into the two new, separate columns.
+  
+<img width="847" alt="Screenshot 2023-05-02 at 3 04 24 PM" src="https://user-images.githubusercontent.com/121995835/235761671-907d0e7c-43f0-410f-9f96-8c7df1f3f622.png">
 
     - Create a new sheet with a pivot table that analyzes your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category.
 
 - Create a stacked-column pivot chart that can be filtered by country based on the table that you created.
+
+<img width="977" alt="Screenshot 2023-05-02 at 3 07 00 PM" src="https://user-images.githubusercontent.com/121995835/235762029-2ec872ea-5ba2-4e27-8c50-d2726fc4d3d7.png">
 
 - Create a new sheet with a pivot table that analyzes your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per sub-category.
 
@@ -35,6 +39,8 @@ Using the Excel workbook in your .zip file, modify and analyze the sample-projec
     - Create a new column named Date Created Conversion that will use this formulaLinks to an external site. to convert the data contained in launched_at into Excel's date format.
 
     - Create a new column named Date Ended Conversion that will use this formulaLinks to an external site. to convert the data contained in deadline into Excel's date format.
+
+<img width="1037" alt="Screenshot 2023-05-02 at 3 08 28 PM" src="https://user-images.githubusercontent.com/121995835/235762301-d6dd2e75-e935-4f96-a582-700afd40c0e4.png">
 
     - Create a new sheet with a pivot table that has a column of outcome, rows of Date Created Conversion, values based on the count of outcome, and filters based on parent category and Years.
 
@@ -92,6 +98,8 @@ Using the Excel workbook in your .zip file, modify and analyze the sample-projec
     - 45000 to 49999
 
     - Greater than or equal to 50000
+    
+<img width="885" alt="Screenshot 2023-05-02 at 3 09 51 PM" src="https://user-images.githubusercontent.com/121995835/235762566-8ec35647-5e44-4ec3-bb73-64e081d0c664.png">
 
 - Using the COUNTIFS() formula, count how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populate the Number Successful, Number Failed, and Number Canceled columns with these data points.
 
@@ -105,6 +113,8 @@ Most people would use the number of campaign backers to assess the success of a 
 For gaining an in-depth understanding of campaign backers, evaluate the number of backers of successful and unsuccessful campaigns by creating your own summary statistics table.
 
 - Create a new worksheet in your workbook, and create one column for the number of backers of successful campaigns and one column for unsuccessful campaigns.
+
+<img width="885" alt="Screenshot 2023-05-02 at 3 11 10 PM" src="https://user-images.githubusercontent.com/121995835/235762796-78765ff5-c830-4021-bf51-fb6067b2db61.png">
 
 - Use Excel to evaluate the following values for successful campaigns, and then do the same for unsuccessful campaigns:
 
