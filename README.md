@@ -24,7 +24,7 @@ Using the Excel workbook in your .zip file, modify and analyze the sample-projec
   
 <img width="847" alt="Screenshot 2023-05-02 at 3 04 24 PM" src="https://user-images.githubusercontent.com/121995835/235761671-907d0e7c-43f0-410f-9f96-8c7df1f3f622.png">
 
-    - Create a new sheet with a pivot table that analyzes your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category.
+   - Create a new sheet with a pivot table that analyzes your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category.
 
 - Create a stacked-column pivot chart that can be filtered by country based on the table that you created.
 
@@ -42,9 +42,9 @@ Using the Excel workbook in your .zip file, modify and analyze the sample-projec
 
 <img width="1037" alt="Screenshot 2023-05-02 at 3 08 28 PM" src="https://user-images.githubusercontent.com/121995835/235762301-d6dd2e75-e935-4f96-a582-700afd40c0e4.png">
 
-    - Create a new sheet with a pivot table that has a column of outcome, rows of Date Created Conversion, values based on the count of outcome, and filters based on parent category and Years.
+   - Create a new sheet with a pivot table that has a column of outcome, rows of Date Created Conversion, values based on the count of outcome, and filters based on parent category and Years.
 
-    - Now, create a pivot-chart line graph that visualizes this new table.
+   - Now, create a pivot-chart line graph that visualizes this new table.
 
 - Create a report in Microsoft Word, and answer the following questions:
 
